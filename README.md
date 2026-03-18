@@ -13,8 +13,8 @@ Add a GIF at `docs/plot-drop-demo.gif` and GitHub will render it inline here:
 
 ## Requirements
 
-- Nix with flakes enabled
 - A Plasma 6 desktop session
+- If you use Nix, there is a flake with the necessary packages, otherwise just instal with your package manager.
 
 ## Install
 
