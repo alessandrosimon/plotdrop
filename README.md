@@ -7,8 +7,6 @@ When you drop multiple files at once, it plots all of them together in the same 
 
 ## Demo
 
-Add a GIF at `docs/plot-drop-demo.gif` and GitHub will render it inline here:
-
 ![Plot Drop demo](docs/plot-drop-demo.gif)
 
 ## Requirements

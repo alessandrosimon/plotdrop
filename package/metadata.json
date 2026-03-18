@@ -1,14 +1,14 @@
 {
   "KPlugin": {
-    "Id": "com.example.plotdrop",
+    "Id": "com.loglogg.plotdrop",
     "Name": "Plot Drop",
     "Description": "Drop a data file to plot it with gnuplot",
     "Icon": "view-statistics",
-    "Version": "0.1.4",
+    "Version": "0.1.5",
     "Category": "Utilities",
     "Authors": [
       {
-        "Name": "You"
+        "Name": "Alessandro Simon"
       }
     ]
   },
