@@ -12,7 +12,7 @@ When you drop multiple files at once, it plots all of them together in the same 
 ## Requirements
 
 - A Plasma 6 desktop session
-- If you use Nix, there is a flake with the necessary packages, otherwise just instal with your package manager.
+- If you use Nix, there is a flake with the necessary packages; otherwise just install with your package manager.
 
 ## Install
 
@@ -55,5 +55,9 @@ Then drag `sample-a.dat` or both files onto the widget.
 ## Remove
 
 ```bash
-kpackagetool6 --type Plasma/Applet --remove com.example.plotdrop
+kpackagetool6 --type Plasma/Applet --remove com.loglogg.plotdrop
 ```
+
+## License
+
+MIT
